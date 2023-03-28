@@ -212,6 +212,6 @@ else:
     clear_output()
     if total_money<=0:
         print(f"Wallet: {total_money}")
-        print("Tum to Sab Kuch Haar gaye Priye Yudhistir")
+        print("Game Over")
     print("\n THANK YOU ")
     
